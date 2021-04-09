@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 public class Kata
 {
+    public prop
     public static int[] ArrayDiff(int[] a, int[] b)
     {
         // Your brilliant solution goes here
